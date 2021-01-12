@@ -1,7 +1,7 @@
 <?php
 include_once 'include/vk.php';
 include_once 'include/tg.php';
-$chat_vk = ''; // ID Вашей беседы во ВКонтакте
+$chat_vk = '212386903'; // ID Вашей беседы во ВКонтакте
 
 $vk = new VK();
 $tg = new TG();

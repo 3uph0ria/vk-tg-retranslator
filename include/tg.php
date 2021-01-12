@@ -2,7 +2,7 @@
 
 class TG
 {
-    private $token = '';
+    private $token = '1591180879:AAETdgc_tnoiuZdMbD41wALr7mns_DE9Et4';
 
     public function request($method, $params = [])
     {

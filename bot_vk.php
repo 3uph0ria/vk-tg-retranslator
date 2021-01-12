@@ -1,5 +1,5 @@
 <?php
-$chat_tg = '';
+$chat_tg = '608689555';
 
 include_once 'include/vk.php';
 include_once 'include/tg.php';
